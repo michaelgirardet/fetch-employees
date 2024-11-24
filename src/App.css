@@ -1,0 +1,25 @@
+.App {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 2em;
+	height: 100vh;
+	background-color: rgba(166, 254, 166, 0.704);
+	font-family: "Tahoma", sans-serif;
+	font-size: 1em;
+	padding: 2em;
+}
+.App button {
+	height: 5em;
+}
+
+.DisplayEmployee {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.App img {
+	width: 100px;
+	border-radius: 25%;
+}
