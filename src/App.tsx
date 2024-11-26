@@ -1,6 +1,7 @@
 import { useState } from "react";
 import EmployeeCard from "./components/EmployeeCard";
 import "./App.css";
+import React from "react";
 
 const sampleEmployee = {
 	name: {
